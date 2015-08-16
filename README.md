@@ -15,5 +15,6 @@ Folder `talks` contains different schedules which can be passed as input to prog
 2. If conference has multiple tracks, each track will have their own networking event.
 
 ## References:
-1. Similar problem - https://github.com/evagabriela/ConferenceManagerApp
-2. Schedule used in one of the input files - http://www.aieaworld.org/2015-conference-schedule
+1. Wikipedia page for bin packing problem - https://en.wikipedia.org/wiki/Bin_packing_problem
+2. Similar problem - https://github.com/evagabriela/ConferenceManagerApp
+3. Schedule used in one of the input files - http://www.aieaworld.org/2015-conference-schedule
