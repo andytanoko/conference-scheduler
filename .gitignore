@@ -1,0 +1,8 @@
+.class
+target/
+distribution/
+.DS_STORE
+*.jar
+.classpath
+.project
+.settings/

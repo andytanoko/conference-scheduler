@@ -1,0 +1,11 @@
+Writing Fast Tests Against Enterprise Rails 240min
+Overdoing it in Python 230min
+Lua for the Masses 230min
+Ruby Errors from Mismatched Gem Versions 200min
+Common Ruby Errors 210min
+Communicating Over Distance 220min
+Accounting-Driven Development 240min
+Woah 230min
+Sit Down and Write 230min
+Pair Programming vs Noise 190min
+Rails Magic 185min
